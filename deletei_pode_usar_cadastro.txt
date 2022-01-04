@@ -1,2 +1,0 @@
-pode_usar_cadastro = para poder usar o programa
-nao_pode_usar_cadastro = para nao poder usar o programa
